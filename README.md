@@ -1,4 +1,4 @@
-![The Impossible Journey Logo](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/tij_imagens/tij_logo.png)
+![The Impossible Journey Logo](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_logo.png)
 ### Um jogo de plataforma 2D impossível de ser zerado! :video_game:
 ---
 
@@ -7,7 +7,7 @@ já que a principal premissa do game gira envolta da sua grande dificuldade, no 
 estilo de mecânica e arte básicas, usando como inspiração os grandes clássicos da era 2D, exemplo: *Mario Bros, Sonic,
 Donkey Kong, Contra, Mega Man, entre vários outros.*
 
-![The Impossible Journey Gameplay Gif](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/tij_imagens/tij_gameplay_video.gif)
+![The Impossible Journey Gif](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_gameplay_video.gif)
 
 ---
 
@@ -71,10 +71,10 @@ __GML__, o projeto já passou por mais de 20 horas de desenvolvimento e atualmen
 #### As imagens abaixo mostram um pouco do jogo na prática :arrow_down:
 
 Menu Principal
-![The Impossible Journey Image 1](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/tij_imagens/tij_main_menu.PNG)
+![The Impossible Journey Image 1](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_main_menu.PNG)
 Gameplay
-![The Impossible Journey Image 2](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/tij_imagens/tij_gameplay_1.PNG)
-![The Impossible Journey Image 3](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/tij_imagens/tij_gameplay_2.PNG)
-![The Impossible Journey Image 4](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/tij_imagens/tij_gameplay_3.PNG)
+![The Impossible Journey Image 2](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_gameplay_1.PNG)
+![The Impossible Journey Image 3](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_gameplay_2.PNG)
+![The Impossible Journey Image 4](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_gameplay_3.PNG)
 
 ---
