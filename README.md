@@ -2,7 +2,7 @@
 ### Um jogo de plataforma 2D impossível de ser zerado! :video_game:
 ---
 
-__The Impossible Journey__ se trata de um projeto independente pensado e desenvolvido para irritar seus jogadores,
+__The Impossible Journey__ se trata de um projeto independente pensado e desenvolvido para desafiar seus jogadores,
 já que a principal premissa do game gira envolta da sua grande dificuldade, no geral, o jogo é simples e segue um
 estilo de mecânica e arte básicas, usando como inspiração os grandes clássicos da era 2D, exemplo: *Mario Bros, Sonic,
 Donkey Kong, Contra, Mega Man, entre vários outros.*
