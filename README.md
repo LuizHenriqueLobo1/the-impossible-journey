@@ -1,5 +1,5 @@
 ![The Impossible Journey Logo](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_logo.png)
-### Um jogo de plataforma 2D impossível de ser zerado! :video_game:
+## Um jogo de plataforma 2D impossível de ser zerado! :video_game:
 ---
 
 __The Impossible Journey__ se trata de um projeto independente pensado e desenvolvido para desafiar seus jogadores,
