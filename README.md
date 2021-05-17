@@ -1,5 +1,6 @@
 ![The Impossible Journey Logo](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_logo.png)
-## Um jogo de plataforma 2D impossível de ser zerado! :video_game:
+## Um jogo de plataforma 2D impossível de ser zerado! :video_game:/c/Users/Luiz Henrique/Documents/Meu GitHub/INF029-LuizHenriqueLobo
+
 ---
 
 __The Impossible Journey__ se trata de um projeto independente pensado e desenvolvido para desafiar seus jogadores,
@@ -27,34 +28,6 @@ __GML__, o projeto já passou por mais de 20 horas de desenvolvimento e atualmen
 - [x] Roteiro
 - [ ] Level Design
 - [x] Versão Beta 
-
----
-
-## Guia básico dos arquivos :page_facing_up:
-
-#### :boom: __Aviso: Nem todos os arquivos de composição do projeto estão disponíveis para acesso.__ :boom:
-
-
-:file_folder: fonts
-* Fontes usadas no projeto
-
-:file_folder: options
-* Configurações principais do projeto (Nome, descrição, produção)
-
-:file_folder: objects
-* Objetos ou entidades programáveis (Jogador, inimigos, tiros)
-
-:file_folder: rooms
-* Quartos, fases ou telas do jogo
-
-:file_folder: scripts
-* Trexos de códigos para realizar funções no jogo (Script de checkpoint, morte)
-
-:file_folder: sounds
-* Sons do game
-
-:file_folder: sprites
-* Imagens, arte do jogo
 
 ---
 
