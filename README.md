@@ -1,5 +1,5 @@
 ![The Impossible Journey Logo](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_logo.png)
-## Um jogo de plataforma 2D impossível de ser zerado! :video_game:/c/Users/Luiz Henrique/Documents/Meu GitHub/INF029-LuizHenriqueLobo
+## Um jogo de plataforma 2D impossível de ser zerado! :video_game:
 
 ---
 
