@@ -19,4 +19,4 @@ Menu Principal
 Gameplay
 ![The Impossible Journey Gameplay 1](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/datafiles/images/The_Impossible_Journey_Print_Gameplay_1.png)
 ![The Impossible Journey Gameplay 2](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/datafiles/images/The_Impossible_Journey_Print_Gameplay_2.png)
-![The Impossible Journey Gameplay 3]((https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/datafiles/images/The_Impossible_Journey_Print_Gameplay_3.png))
+![The Impossible Journey Gameplay 3](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/datafiles/images/The_Impossible_Journey_Print_Gameplay_3.png)
