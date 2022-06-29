@@ -1,53 +1,22 @@
-![The Impossible Journey Logo](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_logo.png)
-## Um jogo de plataforma 2D impossível de ser zerado! :video_game:
+# The Impossible Journey
 
 ---
 
-__The Impossible Journey__ se trata de um projeto independente pensado e desenvolvido para desafiar seus jogadores,
-já que a principal premissa do game gira envolta da sua grande dificuldade, no geral, o jogo é simples e segue um
-estilo de mecânica e arte básicas, usando como inspiração os grandes clássicos da era 2D, exemplo: *Mario Bros, Sonic,
-Donkey Kong, Contra, Mega Man, entre vários outros.*
-
-![The Impossible Journey Gif](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_gameplay_video.gif)
+> __The Impossible Journey__ se trata de um projeto independente pensado e desenvolvido para desafiar seus jogadores, a premissa do game gira entorno da sua considerável dificuldade, no geral, o jogo é simples e segue um estilo de mecânicas dos clássicos da era 2D, como por exemplo: *Mario Bros, Sonic, Donkey Kong, Contra, Mega Man...*
 
 ---
 
-## Desenvolvimento :computer:
+## Desenvolvimento
 
-O jogo está sendo desenvolvido por completo na plataforma __GameMaker Studio 2__, desde sua arte e animação até a programação utilizando a linguagem
-__GML__, o projeto já passou por mais de 20 horas de desenvolvimento e atualmente o game se encontra na versão Beta 1.7 sem tempo determinado para sua conclusão.
-
----
-
-## Objetivos :star:
-
-- [x] Mecânicas Básicas
-- [x] Menus
-- [x] Artes Básicas
-- [ ] Trilha Sonora
-- [x] Roteiro
-- [ ] Level Design
-- [x] Versão Beta 
+O jogo está sendo desenvolvido por completo na engine __GameMaker Studio 2__, utilizando a linguagem __GML__.
 
 ---
 
-## Contato e Acesso :speech_balloon:
-
-#### Se você está interessado em participar do desenvolvimento desse projeto ou até mesmo testar o jogo, entre em contato comigo.
-
-:email: luizhenriquelobo14@gmail.com
-
----
-
-## Imagens :art:
-
-#### As imagens abaixo mostram um pouco do jogo na prática :arrow_down:
+## Imagens
 
 Menu Principal
-![The Impossible Journey Image 1](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_main_menu.PNG)
+![The Impossible Journey Menu](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/datafiles/images/The_Impossible_Journey_Print_Menu.png)
 Gameplay
-![The Impossible Journey Image 2](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_gameplay_1.PNG)
-![The Impossible Journey Image 3](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_gameplay_2.PNG)
-![The Impossible Journey Image 4](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/images/tij_gameplay_3.PNG)
-
----
+![The Impossible Journey Gameplay 1](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/datafiles/images/The_Impossible_Journey_Print_Gameplay_1.png)
+![The Impossible Journey Gameplay 2](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/datafiles/images/The_Impossible_Journey_Print_Gameplay_2.png)
+![The Impossible Journey Gameplay 3]((https://github.com/LuizHenriqueLobo1/The-Impossible-Journey/blob/master/datafiles/images/The_Impossible_Journey_Print_Gameplay_3.png))

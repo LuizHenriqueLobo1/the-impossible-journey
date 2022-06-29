@@ -1,0 +1,1 @@
+global.enemy_cont = 0;
