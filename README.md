@@ -12,6 +12,12 @@ O jogo está sendo desenvolvido por completo na engine __GameMaker Studio 2__, u
 
 ---
 
+## Como jogar?
+
+Clique para baixar build do jogo: [The Impossible Journey](https://drive.google.com/drive/folders/1WXhYC_387VDQwyteyALkxpJeMf6JeyXx?usp=sharing)
+
+---
+
 ## Imagens
 
 Menu Principal
